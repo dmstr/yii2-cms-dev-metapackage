@@ -2,10 +2,9 @@
     "name": "dmstr/yii2-cms-dev-metapackage",
     "description": "Content Management Development Extensions for Phundament 4 (Yii 2.0 Framework)",
     "require": {
-        "dmstr/yii2-yaml-converter-command": "*",
         "fabpot/php-cs-fixer": "1.*",
-        "schmunk42/yii2-giiant": "*",
-        "schmunk42/yii2-markdocs-module": "*",
+        "schmunk42/yii2-giiant": "~0.6.2 | ~0.7",
+        "schmunk42/yii2-markdocs-module": "~0.3",
         "yiisoft/yii2-apidoc": "2.*",
         "yiisoft/yii2-codeception": "2.*",
         "yiisoft/yii2-coding-standards": "2.*",
